@@ -1,0 +1,12 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ."
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.0.0"
+  }
+}
